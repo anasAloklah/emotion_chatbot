@@ -1,0 +1,172 @@
+{
+  "emotion_templates": {
+    "admiration": [
+      "I want to express my admiration for [topic/person]. What specifically about them inspires you?",
+      "I'm filled with admiration for [topic/person]. Can you tell me more about their greatest accomplishments or qualities?",
+      "What is something that would make someone admire [topic/person]?",
+      "If I wanted to learn to admire [topic/person], what should I know?"
+    ],
+    "amusement": [
+      "Tell me a funny story about [topic] that would amuse someone.",
+      "I'm looking for something amusing related to [topic].  What would you suggest?",
+      "What kind of humor is often found in amusement about [topic]?",
+      "What is a great joke about [topic]?"
+    ],
+    "anger": [
+      "What are some things that could make someone angry about [topic]?",
+      "I'm feeling angry about [topic]. Can you suggest how to express this anger?",
+      "Describe a situation where people get angry with [topic]?",
+      "I want to vent about [topic] - what is there to be angry about?"
+    ],
+    "annoyance": [
+      "What would be a common reason for someone to be annoyed by [topic]?",
+      "I am feeling annoyed about [topic]. How can I best communicate this?",
+      "What about [topic] can annoy people and why?",
+      "How can I vent my annoyance about [topic]?"
+    ],
+    "approval": [
+      "What aspects of [topic/person/idea] are usually approved of?",
+      "I want to express approval of [topic]. How should I phrase my support?",
+      "What is the reason for approval of [topic]?",
+      "What are some things that people would approve of about [topic]?"
+    ],
+    "caring": [
+      "How can I show caring for [person/situation]?",
+      "I want to express my caring towards [person/situation]. What kind of words would be appropriate?",
+      "What do you do to express caring about [person/situation]?",
+      "If I care for [person/situation], what should I consider?"
+    ],
+    "confusion": [
+      "What are the common causes of confusion about [topic]?",
+      "I am confused about [topic].  What questions should I ask to understand it better?",
+      "Can you elaborate on the areas of confusion about [topic]?",
+      "Why is there confusion about [topic]?"
+    ],
+    "curiosity": [
+      "What are some interesting facts that would spark curiosity about [topic/person/thing]?",
+      "I am curious about [topic]. What are some questions I could ask to learn more?",
+      "What is the source of curiosity about [topic]?",
+      "Where can I find information that makes people curious about [topic]?"
+    ],
+    "desire": [
+      "What are some common desires related to [object/experience/outcome]?",
+      "I have a strong desire for [object/experience/outcome]. How can I express this desire?",
+      "How does desire feel about [object/experience/outcome]?",
+      "What do people often desire related to [object/experience/outcome]?"
+    ],
+    "disappointment": [
+      "What typically leads to disappointment regarding [topic/event/outcome]?",
+      "I am disappointed about [topic/event/outcome]. What should I say?",
+      "What is the reason of disappointment about [topic/event/outcome]?",
+      "Why would someone feel disappointment about [topic/event/outcome]?"
+    ],
+    "disapproval": [
+      "What are common reasons for disapproval of [topic/behavior/idea]?",
+      "I want to express my disapproval of [topic]. How can I phrase it constructively?",
+      "How can you show that you disapprove of [topic]?",
+      "What are some reasons that cause disapproval about [topic]?"
+    ],
+    "disgust": [
+      "What are the usual things that provoke disgust related to [topic/thing/situation]?",
+      "I'm feeling disgusted about [topic]. What words or phrases can I use to express this?",
+      "How does disgust usually come up about [topic]?",
+      "What factors can trigger a feeling of disgust about [topic]?"
+    ],
+    "embarrassment": [
+      "What situations typically cause embarrassment?",
+      "I am embarrassed about [situation/event]. How can I describe this experience?",
+      "How do people deal with embarrassment about [situation/event]?",
+      "Why can someone feel embarrassed about [situation/event]?"
+    ],
+    "excitement": [
+      "What are some events or news that typically cause excitement?",
+      "I am excited about [event/opportunity/news]. What should I tell others?",
+      "How does excitement appear for [event/opportunity/news]?",
+      "What makes people feel excited about [event/opportunity/news]?"
+    ],
+    "fear": [
+      "What are common causes of fear about [topic/situation/thing]?",
+      "I'm feeling fear about [topic].  How can I express this in a clear way?",
+      "What is the result of fear about [topic/situation/thing]?",
+      "What typically provokes a feeling of fear about [topic/situation/thing]?"
+    ],
+    "gratitude": [
+      "What are some things people are typically grateful for?",
+      "I want to express my gratitude for [person/thing/action]. What should I say?",
+      "What makes people feel gratitude to [person/thing/action]?",
+      "How can someone show their gratitude for [person/thing/action]?"
+    ],
+    "grief": [
+      "What events typically cause grief?",
+      "I am grieving about [loss/event]. What are some ways to express this?",
+      "What causes grief and how is it usually expressed?",
+      "How does someone deal with their grief about [loss/event]?"
+    ],
+    "joy": [
+      "What events often bring joy?",
+      "I am experiencing joy about [event/experience/outcome]. What can I say?",
+      "What often causes a feeling of joy about [event/experience/outcome]?",
+      "How is joy usually shown about [event/experience/outcome]?"
+    ],
+    "love": [
+      "What things or people are commonly associated with love?",
+      "I want to express my love for [person/thing/idea]. What words can I use?",
+      "Why would someone show their love for [person/thing/idea]?",
+      "What does someone do when they feel love for [person/thing/idea]?"
+    ],
+    "nervousness": [
+      "What kinds of situations often make people nervous?",
+      "I am feeling nervous about [situation/event]. How can I communicate this?",
+      "What is the reason for nervousness about [situation/event]?",
+      "What do people often get nervous about in [situation/event]?"
+    ],
+    "optimism": [
+      "What are situations where people tend to be optimistic?",
+      "I feel optimistic about [situation/future]. How can I express this?",
+      "What makes people optimistic about [situation/future]?",
+      "What does someone usually look at in optimism for [situation/future]?"
+    ],
+    "pride": [
+      "What achievements or groups are often associated with pride?",
+      "I am feeling pride about [achievement/person/group]. What should I share?",
+      "Why is it that people feel pride about [achievement/person/group]?",
+      "Why would someone be proud of [achievement/person/group]?"
+    ],
+    "realization": [
+      "What are some common insights or realizations?",
+      "I just realized something about [topic]. How can I express this insight?",
+      "What situations lead to a moment of realization about [topic]?",
+      "How do people react after a realization about [topic]?"
+    ],
+    "relief": [
+      "What events typically bring a sense of relief?",
+      "I am feeling relief about [situation/outcome]. How can I share this feeling?",
+      "What typically causes relief about [situation/outcome]?",
+      "How is relief usually expressed about [situation/outcome]?"
+    ],
+    "remorse": [
+      "What actions or decisions often lead to remorse?",
+      "I am feeling remorse about [action/decision]. How should I express this?",
+      "What kind of actions often make people feel remorse?",
+      "What usually happens when someone has remorse about [action/decision]?"
+    ],
+    "sadness": [
+      "What kinds of events or losses often bring sadness?",
+      "I am feeling sadness about [topic/event/loss]. What can I say?",
+      "What is behind the feeling of sadness about [topic/event/loss]?",
+      "What makes someone feel sadness about [topic/event/loss]?"
+    ],
+    "surprise": [
+      "What are some events that are often surprising?",
+      "I am surprised about [event/information]. What should I ask?",
+      "Why do people feel surprised about [event/information]?",
+      "What typically causes surprise about [event/information]?"
+    ],
+    "neutral": [
+      "What are some neutral facts about [topic]?",
+      "Tell me some basic information about [topic].",
+      "What are the main facts about [topic]?",
+      "What are the key points about [topic]?"
+    ]
+  }
+}

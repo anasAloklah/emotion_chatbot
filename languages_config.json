@@ -1,0 +1,40 @@
+{
+    "LANGUAGES": {
+        "English": {
+            "title": "Emotionally Aware Chatbot",
+            "input_placeholder": "Enter your message:",
+            "emotions_header": "Detected Emotions:",
+            "response_header": "AI Response:"
+        },
+        "Arabic": {
+            "title": "روبوت الدردشة العاطفي",
+            "input_placeholder": "أدخل رسالتك:",
+            "emotions_header": "العواطف المكتشفة:",
+            "response_header": "استجابة الذكاء الاصطناعي:"
+        },
+        "French": {
+            "title": "Chatbot Émotionnel",
+            "input_placeholder": "Entrez votre message:",
+            "emotions_header": "Émotions Détectées:",
+            "response_header": "Réponse IA:"
+        },
+        "Spanish": {
+            "title": "Chatbot Emocional",
+            "input_placeholder": "Introduzca su mensaje:",
+            "emotions_header": "Emociones Detectadas:",
+            "response_header": "Respuesta de IA:"
+        },
+        "Dutch": {
+            "title": "Emotioneel Chatbot",
+            "input_placeholder": "Voer uw bericht in:",
+            "emotions_header": "Gedetecteerde Emoties:",
+            "response_header": "AI-Antwoord:"
+        },
+        "Turkish": {
+            "title": "Duygusal Sohbet Robotu",
+            "input_placeholder": "Mesajınızı girin:",
+            "emotions_header": "Algılanan Duygular:",
+            "response_header": "Yapay Zeka Yanıtı:"
+        }
+    }
+}
