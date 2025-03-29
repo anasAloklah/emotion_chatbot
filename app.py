@@ -13,7 +13,7 @@ with open('emotion_templates.json', 'r') as f:
     data = json.load(f)
     
 # Configure Gemini (replace with your API key)
-genai.configure(api_key="AIzaSyCYRYNwCU1f9cgJYn8pd86Xcf6hiSMwJr0")
+genai.configure(api_key="Google_API_Key")
 model = genai.GenerativeModel('gemini-2.0-flash') 
 
 def generate_text(prompt, context=""):
